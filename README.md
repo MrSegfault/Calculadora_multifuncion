@@ -1,10 +1,10 @@
 # Calculadora_multifuncion
-##GUÍA RÁPIDA DE COMPILACIÓN:
+## GUÍA RÁPIDA DE COMPILACIÓN:
 flex --header-file=headers/lex.yy.h lex.l
 bison bison.y  --defines=headers/bison.tab.h
 make
 
-##CÓMO COMPILAR
+## CÓMO COMPILAR
 
 - Consejos:
 	- Utilizar una distribución de linux
